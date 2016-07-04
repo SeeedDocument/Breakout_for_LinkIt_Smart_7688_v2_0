@@ -8,7 +8,7 @@ Breakout for Linkit Smart 7688 V2
 
 ###Change Log:
 
-- **2016-7-4:** create repos by loovee
+- **2016-7-4:** create repos by loovee (loovee@seeed.cc)
 
 
 --------
