@@ -1,7 +1,14 @@
-#Breakout for LinkIt Smart 7688 v2.0
-----
-## Introduction
+---
+title: Breakout for LinkIt Smart 7688 v2.0
+category: LinkIt
+bzurl: https://www.seeedstudio.com/Breakout-for-LinkIt-Smart-7688-v2.0-p-2641.html
+oldwikiname: Breakout for LinkIt Smart 7688 v2.0
+prodimagename: Breakout_for_LinkIt_Smart_7688_v2.0_product_view_700.jpg
+surveyurl: https://www.research.net/r/Breakout_for_LinkIt_Smart_7688_v2
+sku: 103100022
+---
 
+---
 **Breakout for LinkIt Smart 7688 v2.0** is a Grove port integrated expansion board for LinkItTM Smart 7688 development board. This breakout board will help beginners to get started fast because it can save a lot of work and make prototyping easier through simplified wiring. It comes with USB, Ethernet, and 3.5mm Audio ports and supports serial buses like I2C, UART.
 
 ![](https://github.com/SeeedDocument/Breakout_for_LinkIt_Smart_7688_v2_0/blob/master/image/Breakout_for_LinkIt_Smart_7688_v2.0_product_view_700.jpg?raw=true)
@@ -23,7 +30,7 @@
 [![enter image description here](https://github.com/SeeedDocument/Breakout_for_LinkIt_Smart_7688_v2_0/raw/master/image/300px-Get_One_Now_Banner.png)](http://www.seeedstudio.com/depot/Breakout-for-LinkIt-Smart-7688-v20-p-2641.html)
 
 ## Features
-
+---
 * Grove interface makes wiring easier and allows expansions with Grove modules.
 * USB host
 * Audio Output
@@ -33,7 +40,7 @@
 * Switch between OMTP and CTIA
 
 ## Application ideas
-
+---
 * IoT/Gateway Device.
 * Robotics
 * Smart multimedia devices
@@ -41,7 +48,7 @@
 
 
 ## Specification
-
+---
 |Input voltage|Operating voltage|
 |:---------------:|:---------------:|
 |5.0V(With USB Power port) 	|  3.3V  |
@@ -51,7 +58,7 @@
     Debug pins, Ethernet pins and USB type-A host pins connect with MT7688, other pins connect with ATmega32U4.
 
 ## Hardware Overview
-
+---
 ![](https://github.com/SeeedDocument/Breakout_for_LinkIt_Smart_7688_v2_0/blob/master/image/Breakout_for_LinkIt_Smart_7688_v2.0_hardware_connections_1200_s.jpg?raw=true)
 
 |Hardware|Qty|Hardware|Qty|Hardware|Qty|
@@ -81,6 +88,7 @@ Note that to use the recording functionality, you need to update on-board firmwa
 
 
 ## Get started
+---
 In this tutorial, you are going to make a simple MP3 player with Breakout for LinkIt Smart 7688 V2.0.
 
 ### Material required
@@ -120,14 +128,9 @@ For below 2, I think you surely have them.
 **Step6:** Now you will hear the music.
 
 ## Resources
+---
 
 * [Schematic files](https://github.com/SeeedDocument/Breakout_for_LinkIt_Smart_7688_v2_0/blob/master/resource/Breakout_for_LinkIt_Smart_7688_v2.0_schematic_files.zip?raw=true)
 * [LinkIt smart 7688](http://www.seeedstudio.com/wiki/LinkIt_Smart_7688)
 * [OpenWrt](http://wiki.openwrt.org/doc/howto/user.beginner)
 * [Link to buy a LinkIt Smart 7688](http://www.seeedstudio.com/depot/LinkIt-Smart-7688-p-2573.html?cPath=122_142)
-
-
-## Help us to make it better
-
-
-<iframe style="height: 600px; width: 500px; margin: 10px 0 10px;" allowTransparency="true" src="https://www.surveymonkey.com/r/G89PWFZ" frameborder="0"></iframe>
